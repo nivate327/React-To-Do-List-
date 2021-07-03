@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ToDoList/static/css/main.4ecc666c.chunk.css",
+    "main.js": "/ToDoList/static/js/main.ff4c922c.chunk.js",
+    "main.js.map": "/ToDoList/static/js/main.ff4c922c.chunk.js.map",
+    "runtime-main.js": "/ToDoList/static/js/runtime-main.a71c3aab.js",
+    "runtime-main.js.map": "/ToDoList/static/js/runtime-main.a71c3aab.js.map",
+    "static/js/2.2e4f54e5.chunk.js": "/ToDoList/static/js/2.2e4f54e5.chunk.js",
+    "static/js/2.2e4f54e5.chunk.js.map": "/ToDoList/static/js/2.2e4f54e5.chunk.js.map",
+    "static/js/3.feb9e1d0.chunk.js": "/ToDoList/static/js/3.feb9e1d0.chunk.js",
+    "static/js/3.feb9e1d0.chunk.js.map": "/ToDoList/static/js/3.feb9e1d0.chunk.js.map",
+    "index.html": "/ToDoList/index.html",
+    "static/css/main.4ecc666c.chunk.css.map": "/ToDoList/static/css/main.4ecc666c.chunk.css.map",
+    "static/js/2.2e4f54e5.chunk.js.LICENSE.txt": "/ToDoList/static/js/2.2e4f54e5.chunk.js.LICENSE.txt",
+    "static/media/pinknote.2550c987.png": "/ToDoList/static/media/pinknote.2550c987.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a71c3aab.js",
+    "static/js/2.2e4f54e5.chunk.js",
+    "static/css/main.4ecc666c.chunk.css",
+    "static/js/main.ff4c922c.chunk.js"
+  ]
+}
