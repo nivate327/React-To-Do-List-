@@ -1,0 +1,113 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+    .main
+    {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        background-color: rgb(54, 8, 107);
+        justify-content: center;
+        align-items: center;
+    }
+
+    .center
+    {
+    min-width:calc(100vw - 70vw);
+    min-height:calc(100vh - 30vh);
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    
+    }
+
+    .img img{
+        width: 5rem;
+        height: 5rem;
+        display: block;
+        margin: auto;
+    }
+
+    #head{
+        text-align: center;
+        font-size: 1.5rem;
+        color: #f192b2;
+    }
+
+
+    .enterlist
+    {
+        display: flex;
+        position: relative;
+    }
+
+    .enterlist #enter{
+        width: 73%;
+        display: block;
+        margin: 2rem auto;
+        padding: .6rem .5rem;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+    }
+
+    .enterlist .addItem{
+    position: absolute;
+    top: 40%;
+    font-size: 1.2rem;
+    right: 16%;
+    color: #f192b2;
+    cursor: pointer;
+}
+
+.new
+{
+    display: flex;
+    background-color: blue;
+    color:#f192b2;
+    justify-content: space-between;
+    border-radius: 5px;
+    width:73%;
+    margin:1rem auto;
+    padding: .6rem .5rem;
+}
+
+.new:hover{
+    background-color: white;
+    color:black;
+}
+
+.removeall .remove{
+    width:6rem;
+    display: block;
+    margin:2rem auto;
+    outline: none;
+    background-color: #f192b2;
+    color: white;
+    padding: .5rem .5rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.fa-trash
+{
+    color:#f192b2;
+    cursor: pointer;
+}
+
+.new .edit
+{
+    color: rgb(84, 224, 84);
+    cursor: pointer;
+    margin-right: .4rem;
+}
+
+.fa-edit
+{
+    color: rgb(84, 224, 84);
+    cursor: pointer;
+}
